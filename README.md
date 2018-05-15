@@ -1,7 +1,7 @@
 
-Foxy development tree
+INSERTCOINS development tree
 
-Foxy is a PoS-based cryptocurrency.
+InsertCoins is a PoS-based cryptocurrency.
 
 Development process
 ===========================
